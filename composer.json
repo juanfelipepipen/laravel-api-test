@@ -1,0 +1,17 @@
+{
+    "name": "pipen/laravel-api-test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pipen\\LaravelApiTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Felipe Lopez Estrada",
+            "email": "juanfelipepipen@gmail.com"
+        }
+    ],
+    "require": {}
+}
